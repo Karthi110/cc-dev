@@ -58,4 +58,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Acknowledgements
 
-- [Kinde](https://link.joshtriedcoding.com/kinde) for making this project possible
+- [joshtriedcoding](https://github.com/joschan21/casecobra) for making this project possible
