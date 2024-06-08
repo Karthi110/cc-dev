@@ -1,7 +1,12 @@
-import React from "react";
+import React, { Suspense } from "react";
+import ThankYou from "./thank-you";
 
 const Page = () => {
-  return <h3 className="text-7xl">Thank-you</h3>;
+  return (
+    <Suspense>
+      <ThankYou />
+    </Suspense>
+  );
 };
 
 export default Page;
